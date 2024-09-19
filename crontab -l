@@ -1,0 +1,50 @@
+
+# */15 * * * * /opt/260324_morning/mariia_shi/taskMARIA.sh
+# */15 * * * * /opt/260324_morning/Andrii_F/taskAndrii.sh
+# */15 * * * * /opt/260324_morning/Beidel/taskBeidel.sh
+# */15 * * * * /opt/260324_morning/iliaBololo/taskIlia.sh
+
+# */15 * * * *  /opt/260324_morning/PokazachenkoIryna/taskIrynaP.sh
+# */15 * * * * /opt/260324_morning/Margot/taskMargot.sh
+# 0 0 1 * * /opt/260324_morning/PokazachenkoIryna/script0706.sh
+
+# 55 11 07 08 * /opt/21052024_morning/Olga_Ziabko/today.sh
+
+# 0 1 * * * /opt/21052024_morning/Olga_Ziabko/archive1.sh
+
+#Natalia_Gordiyenko 130824
+#15 * * * * /opt/21052024_morning/Natalia_Gordiyenko/task_Nata.sh
+
+#*/15 * * * * /opt/21052024_morning/Anton_SB/Anton/task_Anton.sh >> /opt/21052024_morning/Anton_SB/Anton/task_Anton.log 2>&1
+
+#*/15 * * * * /opt/21052024_morning"Keduk Karyna"/task_Karyna.sh
+
+#15 * * * *  /opt/21052024_morning/Shurinova/task_Elena.sh
+*/15 * * * * /opt/09072024_morning/DeyanSpasov/taskLesson18Deyan.sh
+
+#* * * * * /opt/09072024_morning/DeyanSpasov/crontabUbung.sh >> /opt/09072024_morning/DeyanSpasov/test_dir/file3.txt
+
+*/15 * * * * /opt/09072024_morning/Yevhen_Kariev/task_Kariev.sh
+
+[ec2-user@ip-172-31-33-20 DeyanSpasov]$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
