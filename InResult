@@ -1,0 +1,14 @@
+-rw-rw-r-- 1 ec2-user ec2-user 111 Sep 19 20:07 file_4_19_09_2024.txt
+-rw-rw-r-- 1 ec2-user ec2-user 111 Sep 19 20:07 file_5_19_09_2024.txt
+-rw-rw-r-- 1 ec2-user ec2-user 111 Sep 19 20:07 file_6_19_09_2024.txt
+-rw-rw-r-- 1 ec2-user ec2-user 111 Sep 19 20:07 file_7_19_09_2024.txt
+-rw-rw-r-- 1 ec2-user ec2-user 111 Sep 19 20:07 file_8_19_09_2024.txt
+-rw-rw-r-- 1 ec2-user ec2-user 111 Sep 19 20:07 file_9_19_09_2024.txt
+[ec2-user@ip-172-31-33-20 DeyanSpasov]$ cat test_dir/file_9_19_09_2024.txt
+Homework18
+ Record № 9 in 19:55:11
+Homework18
+ Record № 9 in 19:55:56
+Homework18
+ Record № 9 in 20:07:04
+[ec2-user@ip-172-31-33-20 DeyanSpasov]$
